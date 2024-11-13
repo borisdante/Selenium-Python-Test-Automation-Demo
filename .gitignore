@@ -1,0 +1,26 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment folder
+venv/
+env/
+
+# WebDriver binaries
+chromedriver
+geckodriver
+msedgedriver
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# pytest cache
+.cache/
+
+# Other logs or temporary files
+*.log
+*.tmp
+*.bak
