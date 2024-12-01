@@ -1,0 +1,7 @@
+# Dependencies for the automation scripts
+
+# For Selenium tests
+selenium>=4.10.0
+
+# For Shooter Game Automation
+pyautogui>=0.9.54
